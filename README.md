@@ -33,7 +33,7 @@
 ---
 
 ## 📂 ساختار پروژه
-
+```
 todo-app/
 │
 ├── index.html
@@ -43,7 +43,7 @@ todo-app/
 │ └── css/
 │ └── styles.css
 └── README.md
-
+```
 
 ---
 
